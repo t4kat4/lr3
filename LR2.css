@@ -8,3 +8,12 @@ hr {
     border-top: 7px dotted deeppink;
     width: 200px;
 }
+.main-heading {
+    color: red;
+}
+span{
+    color: yellow;
+}
+h1 {
+    color: blue;
+}
